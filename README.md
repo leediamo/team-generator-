@@ -53,3 +53,7 @@ ISC
 [Diamond Lee](https://github.com/leediamo)
 
 ## Demo
+
+![Video](https://user-images.githubusercontent.com/75379703/124815123-e3519480-df34-11eb-98f6-11fce1ca0cb5.mp4)
+
+[Link](https://user-images.githubusercontent.com/75379703/124815123-e3519480-df34-11eb-98f6-11fce1ca0cb5.mp4)
